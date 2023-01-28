@@ -1,0 +1,22 @@
+# 忽略目录
+.git/
+build/
+config/
+dist/
+examples/
+mobile/
+node_modules/
+packages/
+public/
+tests/
+
+# 忽略指定文件
+.editorconfig
+.eslintignore
+.eslintrc
+.gitignore
+.prettierrc
+*.html
+jest.config.js
+tsconfig.json
+vite.config.ts
